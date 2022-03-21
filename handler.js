@@ -521,7 +521,7 @@ Untuk mematikan fitur ini, ketik
       
       await this.send(`${tag},${JSON.stringify(NodePayload)}`)
     }
-    await this.sendMessage(from, 'Maaf, Tolong jangan telfon BOT!!', MessageType.extendedText)
+    await this.sendMessage(from, 'Jangan panggil saya, saya malu `(*>﹏<*)′', MessageType.extendedText)
   }
 }
 
