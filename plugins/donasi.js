@@ -1,10 +1,11 @@
 let handler = async m => m.reply(`
-╭─「 Donasi • Pulsa 」
-│ • Indosat [085713964963]
-│ • Gopay [085713964963]
+╭─「 Donasi • Sekali 」
+│ • Buy me coffe   : https://www.buymeacoffee.com/shiazza
+│ • Nih buat jajan : https://www.nihbuatjajan.com/shiazza
 ╰────
-╭─「 Hubungi 」
-│ > Ingin donasi? Wa.me/6281390658325
+╭─「 Donasi • Perbulan 」
+│ > Patreon   : https://www.patreon.com/shiazza
+| > Sociabuzz : https://sociabuzz.com/shiazza/tribe
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
